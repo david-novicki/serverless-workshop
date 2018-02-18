@@ -3,10 +3,10 @@ Serverless framework workshop hosted in Sacramento, CA. This workshop is designe
 
 
 ## Getting Started
-To get started you will need to have [NodeJS v6.10.3 (or higher)](https://nodejs.org/download/release/v6.10.3/) installed and the [Serverless framework](https://serverless.com/). AWS is currently still supporting as high as NodeJS v6.10.3 and for example clarity we will not add Babel support. Because of this we will only be writing code that is compatible with this version of NodeJS.
+To get started you will need to install [NodeJS v6.10.3 (or higher)](https://nodejs.org/download/release/v6.10.3/) and the [Serverless framework](https://serverless.com/). AWS is currently still supporting as high as NodeJS v6.10.3 and for example clarity we will not add Babel support. Because of this we will only be writing code that is compatible with this version of NodeJS.
 
 ### Installing NodeJS
-For this workship we are using current LTS version of NodeJS. I recommend install NodeJS through [NVM](https://github.com/creationix/nvm) for Mac/Linux  and [NVM Windows](https://github.com/coreybutler/nvm-windows) but you are more than welcome to just install NodeJS standalone. Rather then C & P everything from the docs please follow the links to setting up the dependencies. I have added some additional commands for what I feel may save you some time.
+For this workship we are using current LTS version of NodeJS. I recommend install NodeJS through [NVM](https://github.com/creationix/nvm) for Mac/Linux  and [NVM Windows](https://github.com/coreybutler/nvm-windows) for Windows but you are more than welcome to just install NodeJS standalone. Rather then C & P everything from the docs please follow the links to setting up the dependencies. I have added some additional commands for what I feel may save you some time.
 
 #### NVM
 If you install NVM through their 'Getting Started' docs you will need to then install NodeJS through NVM. This is pretty easy and straight forward.
@@ -36,3 +36,6 @@ To verify we had a successful install please run version check
 ```
 serverless -v
 ```
+
+## Questions
+Please feel free to add an issue to this repository or shoot me a [tweet](https://twitter.com/novicki_david)

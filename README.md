@@ -27,7 +27,11 @@ To check to make sure your NodeJS version installed correctly and is the correct
 node -v
 ```
 
+### Creating AWS account
+For this workshop we will be using AWS Cloud Services and you will need an account. Please go [here](https://aws.amazon.com/) and click 'Create an AWS Account' if you do not already have one. Do not worry about setting up your AWS credentials on your machine as we will cover that during the workshop.
+
 ### Installing Serverless
+We will cover this process in the workshop but you are welcome to do this before.
 In your terminal please run command below.
 ```
 npm i -g serverless
@@ -36,9 +40,6 @@ To verify we had a successful install please run version check below.
 ```
 serverless -v
 ```
-
-### Creating AWS account
-For this workshop we will be using AWS Cloud Services and you will need an account. Please go [here](https://aws.amazon.com/) and click 'Create an AWS Account' if you do not already have one. Do not worry about setting up your AWS credentials on your machine as we will cover that during the workshop.
 
 ## Questions
 Please feel free to add an issue to this repository or shoot me a [tweet](https://twitter.com/novicki_david).

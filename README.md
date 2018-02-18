@@ -37,5 +37,11 @@ To verify we had a successful install please run version check below.
 serverless -v
 ```
 
+### Creating AWS account
+For this workshop we will be using AWS Cloud Services and will need an account. Please follow [these directions](https://serverless.com/framework/docs/providers/aws/guide/credentials/) to sign up for an account and set your machine up with the correct credentials. This workshop falls under the 'free tier' of AWS but may force you to add a card. At the end of our workshop you can remove the entire project off of AWS and stop any possibility of charges by running the command below in the root directory of the project. Once you have the credentials you have the option to use [this helpful GUI](https://github.com/DavidWells/aws-profile-manager) if you do not want to do it through the aws-cli.
+```
+severless remove -v
+```
+
 ## Questions
 Please feel free to add an issue to this repository or shoot me a [tweet](https://twitter.com/novicki_david).

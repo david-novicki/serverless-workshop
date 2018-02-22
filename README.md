@@ -16,7 +16,7 @@ nvm install v6.10.3
 ```
 To use this newly installed version.
 ```
-nvm use v6.10.03
+nvm use v6.10.3
 ```
 To set a specific default NodeJS version.
 ```

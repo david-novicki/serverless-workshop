@@ -30,7 +30,7 @@ functions:
 
 resources:
   Resources:
-    TodosDynamoDbTable:
+    SlsWorkshopTable:
       Type: 'AWS::DynamoDB::Table'
       DeletionPolicy: Retain
       Properties:

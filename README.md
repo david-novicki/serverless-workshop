@@ -42,4 +42,4 @@ serverless -v
 ```
 
 ## Questions
-Please feel free to add an issue to this repository or shoot me a [tweet](https://twitter.com/novicki_david).
+Please feel free to add an issue to this repository or shoot me a [tweet](https://twitter.com/novicki_david) or hope on the #serverless channel on SacTech slack [here](https://sac-tech.herokuapp.com/).
